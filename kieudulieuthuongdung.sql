@@ -1,0 +1,14 @@
+-- kieu du lieu cua cot trong bang
+--cac kieu du lieu hay su dung 
+--int kieu so nguyen
+--float kieu so thuc 
+--char khong viet tieng viet duoc kieu ki tu vd a,b,c bo nho cap phat cung 
+-- varchar cung la kieu ki tu nhung varchar(10) 10 o nho nay chi duoc lay khi co du lieu nam ben trong
+-- nchar kieu ki tu bo nho fix cung co the luu tieng viet
+-- nvarchar kieu ki tu bo nho cap phat dong co the luu tieng viet
+-- date:luu tru ngay thang nam gio
+-- time:gio phut giay
+-- byte luu gia tri 0 va 1
+-- text luu van ban lon
+-- ntext luu van ban lon su dung unicode co nghia la co the su dung tieng viet
+-- end kieu du lieu trong bang
